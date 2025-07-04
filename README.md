@@ -1,2 +1,6 @@
-# EMAIL-SPAM-CLASSIFIER
-This Flask app performs email content prediction using a model. It provides a web interface and a REST API. Users can input email text via a form or JSON, and the app returns the prediction. It uses a model_predict function from utils.py and runs on port 8080 with debugging enabled.
+# Email Spam Classifier
+
+This is a ML deployment project where I am deploying my Email Spam Classifier model into live production. I conducted a workshop to explain the steps of how I have deployed this model, please like, share and subscribe the video. 
+
+Live Production UR: https://example-deployment-6cut.onrender.com
+
